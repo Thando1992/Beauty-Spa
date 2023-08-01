@@ -1,0 +1,14 @@
+.About{
+    /* background-image: url(https://media.istockphoto.com/id/459159997/photo/abstract-blue-background-water-with-sunbeams.webp?b=1&s=170667a&w=0&k=20&c=a4PfUpSk-hYm7yEiSA_FVwOkIi-lylekmYj1Kq4ukaY=); */
+    width: 100%;
+    height: 80vh ;
+    margin-top: -10px;
+    padding-top: 5rem;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 8rem;
+}
+.write{
+    text-align: center;
+    margin-top: -20rem;
+}

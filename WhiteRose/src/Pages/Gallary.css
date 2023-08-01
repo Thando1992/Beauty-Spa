@@ -1,0 +1,50 @@
+.gallaryPhoto{
+    height: 40rem;
+    width: 100%;
+}
+li{
+    font-weight: bolder;
+}
+
+.photoSpa{
+    height: 20rem;
+    width: 20rem;
+}
+.photoBeauty{
+    height: 20rem;
+    width: 20rem;
+    margin-left: 4rem;
+}
+.photoSeason{
+    height: 20rem;
+    width: 20rem;
+    margin-left: 4rem;
+}
+.photoBed{
+    height: 20rem;
+    width: 20rem;
+    margin-left: 4rem;
+}
+.photoWine{
+    height: 20rem;
+    width: 20rem;
+    margin-top: 7px;
+}
+.photoMen{
+    height: 20rem;
+    width: 20rem;
+    margin-left: 4rem;
+    margin-top: 7px;
+} 
+.photoCouples{
+    height: 20rem;
+    width: 20rem;
+    margin-left: 4rem;
+    margin-top: 7px;
+}  
+.photoKid{
+    height: 20rem;
+    width: 20rem;
+    margin-left: 4rem;
+    margin-top: 7px;
+}
