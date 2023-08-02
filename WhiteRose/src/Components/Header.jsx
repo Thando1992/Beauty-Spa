@@ -17,14 +17,14 @@ function Header() {
                         <li className="nav-item">
                              <a className="nav-link active" aria-current="page" href="/">Home</a>
                         </li>
-//                         <li className="nav-item">
-//                             <a className="nav-link" href="/pricelist">Price List</a>
-//                         </li>
-//                         <li className="nav-item">
-//                             <a className="nav-link" href="/About us">About Us</a>
-//                         </li>
-//                         <li className="nav-item">
-//                             <a className="nav-link" href="/GuesthouseService">GuesthouseService</a>
+                       <li className="nav-item">
+                            <a className="nav-link" href="/pricelist">Price List</a>
+                        </li>
+                        <li className="nav-item">
+                             <a className="nav-link" href="/About us">About Us</a>
+                         </li>
+                        <li className="nav-item">
+                             <a className="nav-link" href="/GuesthouseService">GuesthouseService</a>
 
 
 //                         </li>
