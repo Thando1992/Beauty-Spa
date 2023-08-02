@@ -1,4 +1,4 @@
-// import React from 'react'
+ import React from 'react'
 // import './Gallary.css'
 // import Header from '../Components/Header'
 // function Gallary() {
