@@ -2,7 +2,7 @@
  import '../Components/Header.css'
 
 function Header() {
-//     return (
+     return (
 //         <nav className="navbar navbar-expand-lg bg-body-tertiary">
 //             <div className="container-fluid">
 //                 <a className="navbar-brand" href="#">
@@ -57,7 +57,7 @@ function Header() {
 //             </div>
 //         </nav>
 
-//     )
-// }
+ )
+}
 
-// export default Header
+export default Header
