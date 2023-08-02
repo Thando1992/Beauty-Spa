@@ -27,19 +27,19 @@ function Header() {
                              <a className="nav-link" href="/GuesthouseService">GuesthouseService</a>
 
 
-//                         </li>
-//                         <li className="nav-item">
-//                             <a className="nav-link" href="/Gallary">Gallary</a>
-//                         </li>
-//                         <li className="nav-item">
-//                             <a className="nav-link" href="/Blog">Blog </a>
-//                         </li>  <li className="nav-item">
-//                             <a className="nav-link" href="/Contact">Contact</a>
-//                         </li>  <li className="nav-item">
-//                             <a className="nav-link" href="/OpenHours">OpenHours</a>
-//                         </li>  <li className="nav-item">
-//                             <a className="nav-link" href="/Treatments">Treatments</a>
-//                         </li>
+                        </li>
+                        <li className="nav-item">
+                          <a className="nav-link" href="/Gallary">Gallary</a>
+                       </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/Blog">Blog </a>
+                        </li>  <li className="nav-item">
+                             <a className="nav-link" href="/Contact">Contact</a>
+                         </li>  <li className="nav-item">
+                             <a className="nav-link" href="/OpenHours">OpenHours</a>
+                        </li>  <li className="nav-item">
+                             <a className="nav-link" href="/Treatments">Treatments</a>
+                        </li>
 
 //                         <li className="nav-item dropdown">
 //                             <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
