@@ -41,21 +41,21 @@ function Header() {
                              <a className="nav-link" href="/Treatments">Treatments</a>
                         </li>
 
-//                         <li className="nav-item dropdown">
-//                             <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-//                                 SpaPackage
-//                             </a>
-//                             <ul className="dropdown-menu">
-//                                 <li><a className="dropdown-item" href="#">Couple Treatment</a></li>
-//                                 <li><a className="dropdown-item" href="#">Spapackage</a></li>
-//                                 <li><a className="dropdown-item" href="#">Kids</a></li>
-//                             </ul>
-//                         </li>
-//                     </ul>
-//                 </div>
-//             </div>
-//             <div>
-//             </div>
+                        <li className="nav-item dropdown">
+                           <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                SpaPackage
+                           </a>
+                             <ul className="dropdown-menu">
+                                <li><a className="dropdown-item" href="#">Couple Treatment</a></li>
+                                <li><a className="dropdown-item" href="#">Spapackage</a></li>
+                                <li><a className="dropdown-item" href="#">Kids</a></li>
+                            </ul>
+                        </li>
+                   </ul>
+                 </div>
+             </div>
+             <div>
+              </div>
 
         </nav>
 
