@@ -8,10 +8,10 @@ function Header() {
           <div className="container-fluid">
                 <a className="navbar-brand" href="#">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjhJFgQR2bhOXVdWg-VqT0AphwEa6Mkq_AqPCofLb47a77-VzjUn8iLeGMCuuCIEsv1Gs&usqp=CAU" alt="My logo" id="nav" />
-//                 </a>
-//                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-//                     <span className="navbar-toggler-icon"></span>
-//                 </button>
+                </a>
+                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                     <span className="navbar-toggler-icon"></span>
+                </button>
 //                 <div className="collapse navbar-collapse" id="navbarNav">
 //                     <ul className="navbar-nav">
 //                         <li className="nav-item">
