@@ -1,10 +1,8 @@
-import React from 'react'
-import '../Components/Header.css'
+ import React from 'react'
+ import '../Components/Header.css'
 
-// function Header() {
+function Header() {
 //     return (
-
-
 //         <nav className="navbar navbar-expand-lg bg-body-tertiary">
 //             <div className="container-fluid">
 //                 <a className="navbar-brand" href="#">
@@ -26,6 +24,8 @@ import '../Components/Header.css'
 //                         </li>
 //                         <li className="nav-item">
 //                             <a className="nav-link" href="/GuesthouseService">GuesthouseService</a>
+
+
 //                         </li>
 //                         <li className="nav-item">
 //                             <a className="nav-link" href="/Gallary">Gallary</a>
